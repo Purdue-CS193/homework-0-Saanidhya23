@@ -1,4 +1,14 @@
 ## Welcome to GitHub Pages
+# Saanidhya Jain's first CS193 Homework
+
+### Do I like CS19300?
+
+Here are some reasons I have liked CS193 so far....
+
+- Funn and knowledgable Course leads 
+- No exams!!!
+- The live coding section is really helpful
+- Introduced us to new programming tools 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
